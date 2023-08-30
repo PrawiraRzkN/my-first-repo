@@ -5,5 +5,3 @@ NPM     : 2206030956
 Kelas   : PBP E
 
 Jurusan : Sistem Informasi
-
-Hobi    : Basket
